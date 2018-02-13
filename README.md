@@ -2,4 +2,4 @@
 Currently Ongoing
 
 ## Files
-Q2PCB.zip: Archived KiCAD PCB Design, EEC134_Quarter2Guidelines.pdf
+EEC134_Quarter2Guidelines.pdf, Q2PCB.zip: Archived KiCAD PCB Design, render.png: PCB render
