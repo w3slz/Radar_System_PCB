@@ -7,6 +7,7 @@ Improve upon existing doppler radar system design from Quarter 1 and compete wit
 1)	Examine Quarter 1 design and note areas for improvement
 
 	a.	Use surface mount RF components to reduce weight
+
 	b.	Use patch antenna for higher gain
 
 2)	Design the PCB layout
