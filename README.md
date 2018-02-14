@@ -1,7 +1,7 @@
 # Simple Doppler Radar Design (Ongoing)
 
 ## Description
-Improve upon existing doppler radar system design from Quarter 1 and compete with other groups using improved radar system.  Design a competitive radar system to earn a good score by placing emphasis on low power consumption, low weight, and accuracy.
+Improve upon existing doppler radar system design from Quarter 1 and compete with other groups using improved radar system.  Design a competitive radar system by placing emphasis on low power consumption, low weight, and accuracy.
 
 ## Procedure
 1)	Examine Quarter 1 design and note areas for improvement
